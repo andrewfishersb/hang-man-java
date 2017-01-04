@@ -23,7 +23,7 @@ A console based Hangman game
 ```
 Open Terminal
  git clone https://github.com/andrewfishersb/hang-man-java
- cd hang-man-java
+ cd hang-man/src/main/java/
  javac App.java && java App
 ```
 ## Technologies Used
