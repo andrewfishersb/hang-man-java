@@ -1,24 +1,38 @@
-# _Template_
+# Hang Man
 
-#### By _Ewa Manek and Jason Downing_
+#### Andrew Fisher, September 7th 2016
 
 ## Description
 
-_A template java app for use with gradle and junit_
+A console based Hangman game 
+
+## Specifications
+                
+|Behavior| user input| output
+|------- | ------------- | ------
+|Get a word from a human or computer? | Human
+|Someone else enters a word for the user to guess|github
+|User guesses until they run out of tries or guess correctly | You Win!
+|If they choose computer, choose easy medium or hard| Easy
+|Computer looks through its library of 60k words a chooses one based off of length (determined by difficulty level) | mortis
+
+
 
 ## Setup/Installation Requirements
 
-* _Copy the repository from GitHub_
-* _Open in code editor of your choice_
-* _Make sure you have gradle and junit installed!_
+```
+Open Terminal
+ git clone https://github.com/andrewfishersb/hang-man-java
+ cd hang-man-java
+ javac App.java && java App
 
+```
+## Technologies Used
 
-## GitHub link
+* Java
 
-https://github.com/ewajm/javaTemplate
+### License
 
-## Licensing
+*GPL*
 
-* MIT
-
-Copyright (c) 2016 **_Ewa Manek and Jason Downing_**
+Copyright (c) 2016 **Andrew Fisher**
