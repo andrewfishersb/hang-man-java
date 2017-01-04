@@ -14,7 +14,7 @@ A console based Hangman game
 |Someone else enters a word for the user to guess|github
 |User guesses until they run out of tries or guess correctly | You Win!
 |If they choose computer, choose easy medium or hard| Easy
-|Computer looks through its library of 60k words a chooses one based off of length (determined by difficulty level) | mortis
+|Computer looks through its library of 60k words and chooses one based off of length (determined by difficulty level) | mortis
 
 
 
